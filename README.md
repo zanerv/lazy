@@ -20,10 +20,10 @@ plink wrapper
 Block/Allow access to USB ports
 
 # sensei.au3
-Bot that auto approves *things on a webpage
+Bot that auto approves *things* on a webpage
 
 # service-now.au3
-Tool that monitors service-now for new incidents, assignes it acording to incident status and texts you sev/info/etc
+Tool that monitors service-now for new incidents, it assigns it according to incident status and texts you sev/info/etc
 
 # usual stuff
-Assistant bot for daily *things
+Assistant bot for daily *things*
